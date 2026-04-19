@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_URL="${DONT_SINK_REPO:-https://github.com/udaheju/dont-sink-yr-ship}"
+REPO_URL="${DONT_SINK_REPO:-https://github.com/realjules/DONT-SINK-YR-SHIP}"
 SKILLS_DIR="${CLAUDE_SKILLS_DIR:-$HOME/.claude/skills}"
 TMP_DIR="$(mktemp -d)"
 trap 'rm -rf "$TMP_DIR"' EXIT

@@ -47,13 +47,13 @@ There is no `N/20 seaworthy` score. A ratio would imply completeness the skills 
 ### One-liner
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/udaheju/dont-sink-yr-ship/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/realjules/DONT-SINK-YR-SHIP/main/install.sh | bash
 ```
 
 ### Manual
 
 ```bash
-git clone https://github.com/udaheju/dont-sink-yr-ship /tmp/dont-sink-yr-ship
+git clone https://github.com/realjules/DONT-SINK-YR-SHIP /tmp/dont-sink-yr-ship
 cp -r /tmp/dont-sink-yr-ship/audit ~/.claude/skills/dont-sink-yr-ship
 cp -r /tmp/dont-sink-yr-ship/fix   ~/.claude/skills/dont-sink-yr-ship-fix
 ```
