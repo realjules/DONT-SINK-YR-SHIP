@@ -154,7 +154,3 @@ AI-generated code ships fast and looks right. It usually passes the happy path. 
 ## License
 
 MIT. See [LICENSE](./LICENSE).
-
-## Credits
-
-The 20-point list comes from [`starting.txt`](./starting.txt).
